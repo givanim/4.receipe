@@ -1,0 +1,42 @@
+# Frontend Mentor - Recipe page solution
+
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+
+## Overview
+
+### The challenge
+
+The challenge was to build a recipe page based on the provided design, ensuring it looks as close to the design as possible. The main requirements were to use HTML and CSS to create a responsive layout that works well on both desktop and mobile devices.
+
+
+### Links
+
+- Solution URL: [https://github.com/givanim/4.receipe.git]
+- Live Site URL: [https://4receipe.netlify.app/]
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### What I learned
+
+During this project, I improved my skills in:
+
+- Structuring content with semantic HTML
+- Implementing responsive design principles
+- Using CSS Flexbox for layout
+- Applying custom fonts and styles
+- Creating a visually appealing design that matches the provided mockup
