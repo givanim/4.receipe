@@ -30,7 +30,7 @@ body {
 main {
   background-color: var(--background-color-card);
   max-width: 700px;
-  margin: 20px;
+  margin: 150px;
   min-width: 375px;
   display: flex;
   flex-direction: column;
